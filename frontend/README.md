@@ -15,8 +15,8 @@ To get started with the File Uploader application on your local machine, follow 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/file-uploader.git
-   cd file-uploader
+   git clone git@github.com:blink616/coding-assessment.git
+   cd frontend
 
    ```
 
