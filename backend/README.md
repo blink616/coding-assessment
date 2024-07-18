@@ -15,7 +15,7 @@ Ensure you have Python 3.6+ installed on your system. You can download it from [
 1. **Clone the repository:**
 
 ```bash
-git clone https://yourprojectlink.git
+git clone git@github.com:blink616/coding-assessment.git
 ```
 
 2.  **Navigate to project directory:**
